@@ -103,7 +103,7 @@ const translations = {
     'courses.view_all': 'View All',
     'courses.no_courses': 'No courses available currently.',
     'courses.start_now': 'Start Now',
-    'courses.academy_title': 'NXORA X Academy',
+    'courses.academy_title': 'NXORA X',
     'courses.academy_desc': 'Browse your educational paths or discover new skills in AI and programming.',
     'courses.locked': 'Content Locked',
     'courses.locked_desc': 'Contact support to unlock the course after payment',
