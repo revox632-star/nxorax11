@@ -87,7 +87,7 @@ const Login: React.FC<LoginProps> = ({ onLogin }) => {
                 type="text" 
                 required
                 className="w-full bg-slate-950 border border-slate-800 rounded-2xl py-4 pr-12 pl-4 text-white focus:outline-none focus:border-blue-500 transition-all"
-                placeholder="أدخل اسم المستخدم (admin كمثال)"
+                placeholder="أدخل اسم المستخدم "
                 value={formData.username}
                 onChange={(e) => setFormData({...formData, username: e.target.value})}
               />
